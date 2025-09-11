@@ -1,0 +1,11 @@
+{
+  "repositories": [
+    {
+      "fullName": "GHE-self-hosted/Scala-Sample",
+      "branchName": "main",
+      "uploadScannerLogs": true,
+      "scanType": "sca"
+    }
+  ]
+}
+
