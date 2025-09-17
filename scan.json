@@ -1,0 +1,10 @@
+{
+  "repositories": [
+    {
+      "fullName": "GHE-self-hosted/Scala-Sample-Artifactory",
+      "branchName": "main",
+      "uploadScannerLogs": true,
+      "scanType": "sca"
+    }
+  ]
+}
