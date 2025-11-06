@@ -1,0 +1,10 @@
+
+{
+  "repositories": [
+    {
+      "fullName": "GHE-self-hosted/VulnerableSwiftProject",
+      "branchName": "main",
+      "uploadScannerLogs": true
+    }
+  ]
+}
