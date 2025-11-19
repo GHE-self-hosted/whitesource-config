@@ -1,9 +1,0 @@
-{
-  "repositories": [
-    {
-      "fullName": "GHE-self-hosted/iGoat-Swift",
-      "branchName": "master",
-      "uploadScannerLogs": true
-    }
-  ]
-}
